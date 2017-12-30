@@ -5,7 +5,7 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-Visualise esse site em: https://merymay.github.io/Aprendendo-jQuery
+Visualise esse site em: https://morymay.github.io/Aprendendo-jQuery
 
 Hi there! Welcome to Cloud9 IDE!
 
